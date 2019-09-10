@@ -1,0 +1,19 @@
+{
+  "productorServiceSpecificationInstanceRecord" : {
+    "productServiceDescription" : "productServiceDescription",
+    "productServiceSpecification" : "productServiceSpecification",
+    "productServiceSpecificationUsage" : "productServiceSpecificationUsage",
+    "productServiceSpecificationVersion" : "productServiceSpecificationVersion",
+    "productServiceType" : "productServiceType",
+    "productServiceSpecificationStatus" : "productServiceSpecificationStatus"
+  },
+  "updateResponseRecord" : {},
+  "functionalRequirementsUpdateActionTaskRecord" : {},
+  "functionalRequirementsInstanceRecord" : {
+    "productServiceSpecificationDesignTaskRecord" : {},
+    "productServiceSpecificationDesignTaskReference" : "765914",
+    "productServiceFeedbackRecord" : {},
+    "productServiceRequirementsSpecification" : "productServiceRequirementsSpecification"
+  },
+  "functionalRequirementsUpdateActionTaskReference" : "FRUATR725811"
+}

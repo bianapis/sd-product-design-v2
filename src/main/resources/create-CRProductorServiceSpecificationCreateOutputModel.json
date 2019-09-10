@@ -1,0 +1,20 @@
+{
+  "productorServiceSpecificationCreateActionReference" : "POSSCAR745448",
+  "productorServiceSpecificationInstanceRecord" : {
+    "productServiceDescription" : "productServiceDescription",
+    "productServiceSpecification" : "productServiceSpecification",
+    "productServiceSpecificationImpact" : "productServiceSpecificationImpact",
+    "productServiceSpecificationDeployment" : {
+      "productServiceSpecificationDeploymentConfiguration" : {
+        "productServiceSpecificationDeploymentTaskReference" : "761526",
+        "productServiceSpecificationDeploymentTaskRecord" : {}
+      }
+    },
+    "productServiceSpecificationUsage" : "productServiceSpecificationUsage",
+    "productServiceSpecificationVersion" : "productServiceSpecificationVersion",
+    "productServiceSpecificationStatus" : "productServiceSpecificationStatus"
+  },
+  "productorServiceSpecificationCreateActionRecord" : {},
+  "productorServiceSpecificationInstanceReference" : "POSSIR741800",
+  "productorServiceSpecificationInstanceStatus" : "productorServiceSpecificationInstanceStatus"
+}

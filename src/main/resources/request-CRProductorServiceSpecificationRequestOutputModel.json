@@ -1,0 +1,20 @@
+{
+  "productorServiceSpecificationInstanceRecord" : {
+    "productServiceDescription" : "productServiceDescription",
+    "productServiceSpecification" : "productServiceSpecification",
+    "productServiceSpecificationDeployment" : {
+      "productServiceSpecificationDeploymentConfiguration" : {
+        "productServiceSpecificationDeploymentTaskReference" : "799182",
+        "productServiceSpecificationDeploymentTaskRecord" : {}
+      }
+    },
+    "productServiceSpecificationUsage" : "productServiceSpecificationUsage",
+    "productServiceSpecificationVersion" : "productServiceSpecificationVersion",
+    "productServiceType" : "productServiceType",
+    "productServiceSpecificationStatus" : "productServiceSpecificationStatus"
+  },
+  "requestRecordReference" : "RRR723778",
+  "productorServiceSpecificationRequestActionTaskRecord" : {},
+  "productorServiceSpecificationRequestActionTaskReference" : "POSSRATR715821",
+  "requestResponseRecord" : {}
+}

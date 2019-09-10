@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRProductorServiceSpecificationExecuteOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeploymentProductServiceSpecificationDeploymentConfiguration;
+
+import javax.validation.Valid;
+  
+/**
+ * CRProductorServiceSpecificationExecuteOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeployment
+ */
+public class CRProductorServiceSpecificationExecuteOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeployment   {
+  private CRProductorServiceSpecificationExecuteOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeploymentProductServiceSpecificationDeploymentConfiguration productServiceSpecificationDeploymentConfiguration = null;
+
+
+  /**
+   * Get productServiceSpecificationDeploymentConfiguration
+   * @return productServiceSpecificationDeploymentConfiguration
+  **/
+
+  public CRProductorServiceSpecificationExecuteOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeploymentProductServiceSpecificationDeploymentConfiguration getProductServiceSpecificationDeploymentConfiguration() {
+    return productServiceSpecificationDeploymentConfiguration;
+  }
+
+  public void setProductServiceSpecificationDeploymentConfiguration(CRProductorServiceSpecificationExecuteOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeploymentProductServiceSpecificationDeploymentConfiguration productServiceSpecificationDeploymentConfiguration) {
+    this.productServiceSpecificationDeploymentConfiguration = productServiceSpecificationDeploymentConfiguration;
+  }
+
+
+}
+

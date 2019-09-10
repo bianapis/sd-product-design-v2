@@ -1,0 +1,23 @@
+{
+  "productorServiceSpecificationInstanceRecord" : {
+    "productServiceSpecification" : "productServiceSpecification",
+    "productServiceSpecificationDeployment" : {
+      "productServiceSpecificationDeploymentConfiguration" : {
+        "productServiceSpecificationDeploymentTaskReference" : "724630",
+        "productServiceSpecificationDeploymentTaskRecord" : {}
+      }
+    },
+    "productServiceSpecificationUsage" : "productServiceSpecificationUsage",
+    "productServiceSpecificationVersion" : "productServiceSpecificationVersion",
+    "productServiceSpecificationStatus" : "productServiceSpecificationStatus"
+  },
+  "productionRequestActionTaskRecord" : {},
+  "productionRequestActionTaskReference" : "PRATR727106",
+  "productionRequestRecordReference" : "PRRR773231",
+  "productionInstanceRecord" : {
+    "productServiceSpecificationAllowedUsage" : "productServiceSpecificationAllowedUsage",
+    "productServiceSpecificationOperationalRequirements" : "productServiceSpecificationOperationalRequirements",
+    "productServiceSpecificationUsageGuidelines" : "productServiceSpecificationUsageGuidelines"
+  },
+  "requestResponseRecord" : {}
+}

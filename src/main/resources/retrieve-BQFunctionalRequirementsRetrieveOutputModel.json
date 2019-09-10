@@ -1,0 +1,34 @@
+{
+  "productorServiceSpecificationInstanceRecord" : {
+    "productServiceDescription" : "productServiceDescription",
+    "productServiceSpecification" : "productServiceSpecification",
+    "productServiceSpecificationImpact" : "productServiceSpecificationImpact",
+    "productServiceSpecificationUsage" : "productServiceSpecificationUsage",
+    "productServiceSpecificationVersion" : "productServiceSpecificationVersion",
+    "productServiceType" : "productServiceType",
+    "productServiceSpecificationStatus" : "productServiceSpecificationStatus"
+  },
+  "functionalRequirementsInstanceReport" : {
+    "functionalRequirementsInstanceReportType" : "functionalRequirementsInstanceReportType",
+    "functionalRequirementsInstanceReportParameters" : "functionalRequirementsInstanceReportParameters",
+    "functionalRequirementsInstanceReportRecord" : {},
+    "functionalRequirementsInstanceReport" : {}
+  },
+  "functionalRequirementsRetrieveActionTaskRecord" : {},
+  "functionalRequirementsRetrieveActionResponse" : "functionalRequirementsRetrieveActionResponse",
+  "functionalRequirementsInstanceRecord" : {
+    "marketResearchDataRecord" : {},
+    "marketResearchDataServiceReference" : "785534",
+    "productServiceSpecificationDesignTaskRecord" : {},
+    "productServiceSpecificationDesignTaskReference" : "708370",
+    "productServiceFeedbackRecord" : {},
+    "productServiceRequirementsSpecification" : "productServiceRequirementsSpecification"
+  },
+  "functionalRequirementsRetrieveActionTaskReference" : "FRRATR759190",
+  "functionalRequirementsInstanceAnalysis" : {
+    "functionalRequirementsInstanceAnalysisReportType" : "functionalRequirementsInstanceAnalysisReportType",
+    "functionalRequirementsInstanceAnalysisParameters" : "functionalRequirementsInstanceAnalysisParameters",
+    "functionalRequirementsInstanceAnalysisReport" : {},
+    "functionalRequirementsInstanceAnalysisRecord" : {}
+  }
+}

@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.BQProductionRequestOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeploymentProductServiceSpecificationDeploymentConfiguration;
+
+import javax.validation.Valid;
+  
+/**
+ * BQProductionRequestOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeployment
+ */
+public class BQProductionRequestOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeployment   {
+  private BQProductionRequestOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeploymentProductServiceSpecificationDeploymentConfiguration productServiceSpecificationDeploymentConfiguration = null;
+
+
+  /**
+   * Get productServiceSpecificationDeploymentConfiguration
+   * @return productServiceSpecificationDeploymentConfiguration
+  **/
+
+  public BQProductionRequestOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeploymentProductServiceSpecificationDeploymentConfiguration getProductServiceSpecificationDeploymentConfiguration() {
+    return productServiceSpecificationDeploymentConfiguration;
+  }
+
+  public void setProductServiceSpecificationDeploymentConfiguration(BQProductionRequestOutputModelProductorServiceSpecificationInstanceRecordProductServiceSpecificationDeploymentProductServiceSpecificationDeploymentConfiguration productServiceSpecificationDeploymentConfiguration) {
+    this.productServiceSpecificationDeploymentConfiguration = productServiceSpecificationDeploymentConfiguration;
+  }
+
+
+}
+

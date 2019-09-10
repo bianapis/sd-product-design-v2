@@ -1,0 +1,33 @@
+{
+  "productorServiceSpecificationInstanceRecord" : {
+    "productServiceSpecificationDeployment" : {
+      "employeeBusinessUnitReference" : "725251"
+    },
+    "productServiceSpecificationVersion" : "productServiceSpecificationVersion",
+    "productServiceType" : "productServiceType"
+  },
+  "testingRetrieveActionResponse" : "testingRetrieveActionResponse",
+  "testingRetrieveActionTaskRecord" : {},
+  "testingInstanceAnalysis" : {
+    "testingInstanceAnalysisReportType" : "testingInstanceAnalysisReportType",
+    "testingInstanceAnalysisRecord" : {},
+    "testingInstanceAnalysisParameters" : "testingInstanceAnalysisParameters",
+    "testingInstanceAnalysisReport" : {}
+  },
+  "testingInstanceReport" : {
+    "testingInstanceReportType" : "testingInstanceReportType",
+    "testingInstanceReportRecord" : {},
+    "testingInstanceReport" : {},
+    "testingInstanceReportParameters" : "testingInstanceReportParameters"
+  },
+  "testingRetrieveActionTaskReference" : "TRATR770444",
+  "testingInstanceRecord" : {
+    "productServiceSpecificationTestHarnessReference" : "765856",
+    "productServiceSpecificationTestType" : "productServiceSpecificationTestType",
+    "productServiceSpecificationTestReference" : "797816",
+    "productServiceSpecificationTestResult" : {
+      "productServiceSpecificationTestingTaskReference" : "747743",
+      "productServiceSpecificationTestingTaskRecord" : {}
+    }
+  }
+}

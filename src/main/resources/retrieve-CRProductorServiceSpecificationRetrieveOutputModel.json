@@ -1,0 +1,31 @@
+{
+  "productorServiceSpecificationInstanceRecord" : {
+    "productServiceDescription" : "productServiceDescription",
+    "productServiceSpecification" : "productServiceSpecification",
+    "productServiceSpecificationImpact" : "productServiceSpecificationImpact",
+    "productServiceSpecificationDeployment" : {
+      "employeeBusinessUnitReference" : "718310",
+      "productServiceSpecificationDeploymentConfiguration" : {
+        "productServiceSpecificationDeploymentTaskReference" : "798441",
+        "productServiceSpecificationDeploymentTaskRecord" : {}
+      }
+    },
+    "productServiceSpecificationUsage" : "productServiceSpecificationUsage",
+    "productServiceSpecificationVersion" : "productServiceSpecificationVersion",
+    "productServiceType" : "productServiceType",
+    "productServiceSpecificationStatus" : "productServiceSpecificationStatus"
+  },
+  "productorServiceSpecificationInstanceAnalysis" : {
+    "productorServiceSpecificationInstanceAnalysisReport" : {},
+    "productorServiceSpecificationInstanceAnalysisData" : "productorServiceSpecificationInstanceAnalysisData",
+    "productorServiceSpecificationInstanceAnalysisReportType" : "productorServiceSpecificationInstanceAnalysisReportType"
+  },
+  "productorServiceSpecificationRetrieveActionTaskReference" : "POSSRATR737490",
+  "productorServiceSpecificationRetrieveActionTaskRecord" : {},
+  "productorServiceSpecificationRetrieveActionResponse" : "productorServiceSpecificationRetrieveActionResponse",
+  "productorServiceSpecificationInstanceReportRecord" : {
+    "productorServiceSpecificationInstanceReportType" : "productorServiceSpecificationInstanceReportType",
+    "productorServiceSpecificationInstanceReport" : {},
+    "productorServiceSpecificationInstanceReportData" : "productorServiceSpecificationInstanceReportData"
+  }
+}

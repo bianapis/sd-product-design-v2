@@ -1,0 +1,35 @@
+{
+  "productorServiceSpecificationInstanceRecord" : {
+    "productServiceSpecification" : "productServiceSpecification",
+    "productServiceSpecificationDeployment" : {
+      "employeeBusinessUnitReference" : "708629",
+      "productServiceSpecificationDeploymentConfiguration" : {
+        "productServiceSpecificationDeploymentTaskReference" : "776086",
+        "productServiceSpecificationDeploymentTaskRecord" : {}
+      }
+    },
+    "productServiceSpecificationUsage" : "productServiceSpecificationUsage",
+    "productServiceSpecificationVersion" : "productServiceSpecificationVersion",
+    "productServiceSpecificationStatus" : "productServiceSpecificationStatus"
+  },
+  "productionRetrieveActionTaskReference" : "PRATR722374",
+  "productionRetrieveActionResponse" : "productionRetrieveActionResponse",
+  "productionRetrieveActionTaskRecord" : {},
+  "productionInstanceReport" : {
+    "productionInstanceReportRecord" : {},
+    "productionInstanceReportType" : "productionInstanceReportType",
+    "productionInstanceReport" : {},
+    "productionInstanceReportParameters" : "productionInstanceReportParameters"
+  },
+  "productionInstanceRecord" : {
+    "productServiceSpecificationAllowedUsage" : "productServiceSpecificationAllowedUsage",
+    "productServiceSpecificationOperationalRequirements" : "productServiceSpecificationOperationalRequirements",
+    "productServiceSpecificationUsageGuidelines" : "productServiceSpecificationUsageGuidelines"
+  },
+  "productionInstanceAnalysis" : {
+    "productionInstanceAnalysisParameters" : "productionInstanceAnalysisParameters",
+    "productionInstanceAnalysisReport" : {},
+    "productionInstanceAnalysisRecord" : {},
+    "productionInstanceAnalysisReportType" : "productionInstanceAnalysisReportType"
+  }
+}
